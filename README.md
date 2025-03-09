@@ -41,8 +41,11 @@ We use a real-world dataset (e.g., **Iris dataset** or **Wine dataset**) availab
 
 ## 📈 Results & Insights
 ✅ LDA helps reduce the number of dimensions while preserving class separability.
+
 ✅ The LDA-transformed space enhances classification performance.
+
 ✅ Model accuracy before & after LDA is compared to validate improvements.
+
 ✅ LDA is useful for multi-class classification problems.
 
 ## 🤝 Contributions
