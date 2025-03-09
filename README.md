@@ -15,7 +15,7 @@ This project demonstrates **Linear Discriminant Analysis (LDA)** for **dimension
 ```
 
 
-**Requirements.txt:**
+**Requirements:**
 ```
 numpy
 
